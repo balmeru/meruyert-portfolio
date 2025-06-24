@@ -37,7 +37,7 @@ Each project below includes a short summary, relevant skills demonstrated, and a
 ### 🔎 Investment & Portfolio Analysis
 - **Description**: Equity valuation, performance metrics, CAPM & Sharpe Ratio, risk-return modeling.
 - **Skills**: Excel, financial modeling, CAPM, return metrics, asset allocation
-- [📄 View Report](https://raw.githubusercontent.com/balmeru/meruyert-portfolio/main/docs/balgabek-meruyert-invs-analysis-portfolio.pdf)
+- [📄 View Report](https://balmeru.github.io/meruyert-portfolio/docs/balgabek-meruyert-invs-analysis-portfolio.html)
 
 ### 🏙️ Bay Ridge Real Estate Forecast
 - **Description**: Forecasted 12-month sales and revenue using ETS models; identified seasonal trends.
